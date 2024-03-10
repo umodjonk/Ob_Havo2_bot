@@ -1,0 +1,6 @@
+from loadr import bot
+
+import handlers
+
+if __name__=='__main__':
+    bot.infinity_polling()
